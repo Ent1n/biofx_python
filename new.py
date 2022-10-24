@@ -27,7 +27,7 @@ def main():
     """ Make a jazz noise here """
 
     args = get_args()
-    print(args.dna / 2)
+    print(args.dna)
 
 # ---------------------------------------------------------
 
